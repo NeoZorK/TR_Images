@@ -10,6 +10,32 @@
 
 ---
 
+## 💰 Support the Project
+
+If you find these trading strategies helpful and would like to support the development of more exclusive indicators and strategies, consider making a donation:
+
+### Bitcoin (BTC)
+**Wallet Address**: `bc1qm0ynz8tk2em3zr8agv5j3550vpm420z3hxdfkq`
+
+[![Bitcoin](https://img.shields.io/badge/Bitcoin-Donate-orange.svg?style=flat&logo=bitcoin)](bitcoin:bc1qm0ynz8tk2em3zr8agv5j3550vpm420z3hxdfkq)
+
+> 💡 **QR Code**: Scan the QR code below or copy the wallet address above to send your donation.
+
+<div align="center">
+
+![Bitcoin QR Code](https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=bc1qm0ynz8tk2em3zr8agv5j3550vpm420z3hxdfkq)
+
+</div>
+
+### Why Support?
+- 🚀 **Continuous Development**: Help fund new features and improvements
+- 🐛 **Bug Fixes**: Support faster bug resolution and updates
+- 📚 **Documentation**: Better documentation and tutorials
+- 💡 **New Strategies**: Development of additional trading strategies
+- 🌟 **Community**: Help grow the trading community
+
+---
+
 ## 🎯 About This Repository
 
 This repository contains a curated collection of **exclusive trading rule ideas** developed by **NeoZorK**. Each PNG file represents a unique trading strategy concept, complete with visual representations of entry/exit signals, trend analysis, and risk management approaches.
@@ -138,17 +164,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 
----
 
-## 💰 Support the Project
-
-If you find these trading strategies helpful and want to support the development of more exclusive indicators and strategies, consider making a donation:
-
-**Bitcoin (BTC)**: `bc1qm0ynz8tk2em3zr8agv5j3550vpm420z3hxdfkq`
-
-> **💡 Every donation helps create more advanced trading tools and strategies!**
-
----
 
 ## 📞 Contacts
 
