@@ -6,6 +6,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Trading Strategies](https://img.shields.io/badge/Trading-Strategies-blue.svg)](https://github.com/NeoZorK/TR_Images)
 [![MQL5 Indicators](https://img.shields.io/badge/MQL5-Indicators-green.svg)](https://github.com/NeoZorK/Rost_MQL5_Indicators)
+[![Support Bitcoin](https://img.shields.io/badge/Support-Bitcoin-orange.svg)](https://github.com/NeoZorK/TR_Images#-support-the-project)
 
 ---
 
@@ -136,6 +137,16 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
+
+---
+
+## 💰 Support the Project
+
+If you find these trading strategies helpful and want to support the development of more exclusive indicators and strategies, consider making a donation:
+
+**Bitcoin (BTC)**: `bc1qm0ynz8tk2em3zr8agv5j3550vpm420z3hxdfkq`
+
+> **💡 Every donation helps create more advanced trading tools and strategies!**
 
 ---
 
