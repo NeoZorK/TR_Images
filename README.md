@@ -169,7 +169,6 @@ SOFTWARE.
 ## 📞 Contacts
 
 **Author**: Shcherbyna Rostyslav  
-  
 **Documentation Version**: 1.0  
 **Last Updated**: 2025
 
